@@ -1,4 +1,4 @@
-# Lymphoma-Subtype-Classification-DenseNet-CNN
+# Lymphoma-Subtype-Classification-DensNet-CNN
 
 This code defines and evaluates two convolutional neural network (CNN) architectures — a custom implementation of **DensNet-121** and a custom **CNN** model — to classify images from a lymphoma dataset. Here’s a breakdown of the main components and what the code does:
 
