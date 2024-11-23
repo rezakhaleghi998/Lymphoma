@@ -1,6 +1,6 @@
 # Lymphoma-Subtype-Classification-DenseNet-CNN
 
-This code defines and evaluates two convolutional neural network (CNN) architectures — a custom implementation of **DenseNet-121** and a custom **CNN** model — to classify images from a lymphoma dataset. Here’s a breakdown of the main components and what the code does:
+This code defines and evaluates two convolutional neural network (CNN) architectures — a custom implementation of **DensNet-121** and a custom **CNN** model — to classify images from a lymphoma dataset. Here’s a breakdown of the main components and what the code does:
 
 ### Overview
 - **Purpose**: The code trains two deep learning models for lymphoma cancer classification using histopathological images from a dataset containing three classes: Chronic Lymphocytic Leukemia (CLL), Follicular Lymphoma (FL), and Mantle Cell Lymphoma (MCL).
